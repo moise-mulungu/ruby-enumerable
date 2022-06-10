@@ -1,17 +1,17 @@
 require_relative 'enumerable'
 
 class MyList
-    include MyEnumerable
+  include MyEnumerable
 
-    def initialize(*list_item)
-        @list = list_item
-    end
+  def initialize(*list_item)
+    @list = list_item
+  end
 
-    def each
-        (0...@list.length).each do |index|
-            yield @list[index]
-        end
+  def each
+    (0...@list.length).each do |index|
+      yield @list[index]
     end
+  end
 end
 
 list_item = MyList.new(1, 2, 3, 4)

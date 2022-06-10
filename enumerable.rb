@@ -6,7 +6,7 @@ module MyEnumerable
     end
     answer
   end
-  
+
   def any?
     answer = false
     @list.each do |e|
@@ -14,7 +14,7 @@ module MyEnumerable
     end
     answer
   end
-  
+
   def filter?
     filtered_items = []
     @list.each do |e|
@@ -22,4 +22,4 @@ module MyEnumerable
     end
     filtered_items
   end
-end 
+end

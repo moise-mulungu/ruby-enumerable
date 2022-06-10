@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Ruby Enumerable
 
-> Description the project.
+> This project is about creating a custom ruby enumerable.
 
 
 ## Built With
@@ -42,15 +42,15 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@moise-mulungu](https://github.com/moise-mulungu)
+- Twitter: [@moise_mulungu](https://twitter.com/moise_mulungu)
+- LinkedIn: [Moïse (Musa) Mulungu](https://www.linkedin.com/in/moisemulungu/)
 
 👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@wuletawwonte](https://github.com/wuletawwonte)
+- Twitter: [@wuletaww](https://twitter.com/wuletaww)
+- LinkedIn: [wuletaw-wonte](https://www.linkedin.com/in/wuletaw-wonte/)
 
 ## 🤝 Contributing
 
